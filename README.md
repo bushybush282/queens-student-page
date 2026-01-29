@@ -9,7 +9,7 @@ To view the webpage:
 2. Visit the GitHub Pages link (if enabled)
 
 ## Files in This Repository
-- `index.html` – Main HTML file containing the page content
-- `style.css` – CSS file used for styling the webpage
-- `me.jpg` – Image displayed on the page
-- `README.md` – Project 
+- index.html – Main HTML file containing the page content
+- style.css – CSS file used for styling the webpage
+- me.jpg – Image displayed on the page
+- README.md – Project 
